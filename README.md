@@ -6,7 +6,7 @@ Proyecto Final — Cátedra de **Métodos Numéricos**, Ingeniería en Inteligen
 
 🔗 **[Simulador interactivo desplegado](https://simulador-de-difusi-n-de-informaci-n-174273423336.us-west1.run.app)**
 
-📓 **[Notebook completo (Colab)](https://colab.research.google.com/drive/1sharing)**
+📓 **[Notebook completo (Colab)](notebook/FINAL_M_N_Equipo_3-2.ipynb)**
 
 ---
 
